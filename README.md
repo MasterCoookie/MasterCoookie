@@ -5,3 +5,6 @@
 - 🎸I also play guitar, work out and play D&D
 
 ### Connect with me:
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/jan-kocurek-344933242/)
+
+[linkedin]: https://www.linkedin.com/in/jan-kocurek-344933242/
